@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This is my Linux System Hardening Project, I decided to showcase this project to show some technical skills working with the command line and administrating Users and Groups. I also create System Backups and automate System Updating and System Hardening using a bash script and Cron. 
+This is my Linux System Hardening project and it highlights my technical proficiency working with the Linux command line  and experience with systems administration. Through this project, I demonstrate skills in managing users and groups, creating system backups, and automating critical tasks such as system updates and hardening using Bash scripting and Cron scheduling. 
 
 <br />
 
