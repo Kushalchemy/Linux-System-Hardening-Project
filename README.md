@@ -20,13 +20,3 @@ This is my Linux System Hardening Project, I decided to showcase this project to
 - <b>Linux</b> 
 
 
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
